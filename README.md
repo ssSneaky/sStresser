@@ -1,0 +1,2 @@
+# sStresser
+Python Script DDOS
